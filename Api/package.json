@@ -1,0 +1,19 @@
+{
+  "name": "redwantapu",
+  "version": "1.0.0",
+  "description": "tapuapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tapu",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "heroku": "^7.67.2"
+  },
+  "engines": {
+    "node": "16.15.1"
+  }
+}
